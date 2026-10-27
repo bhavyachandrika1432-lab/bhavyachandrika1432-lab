@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey Everyone! I'm [bhavyachandrika-lab](https://github.com/bhavyachandrika-lab) <img
-src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey Everyone! I'm [bhavyachandrika-lab](https://github.com/bhavyachandrika-lab)
 
 
 # 💫 About Me:
